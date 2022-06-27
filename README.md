@@ -41,3 +41,12 @@ Collection of companies hiring for tech roles in Glasgow.
 * [Nude](https://www.getnude.com/careers)
 * [Phlo](https://wearephlo.com/careers-at-phlo)
 * [Streamba](https://careers.streamba.net)
+
+## Resources
+
+Colleciton of useful places to find out more about Glasgow tech.
+
+* [Glasgow City Innovation District](https://glasgowcityinnovationdistrict.com) - hub for entrepreneurship, innovation, and collaboration
+* [glasgow.social](https://glasgow.social/about) - twitter like micro blogging, Glasgow specific
+* [Open Tech Calendar](https://opentechcalendar.co.uk/event/11644-tech-meetup) - calendar of events (UK wide)
+* [RookieOven Blog](https://rookieoven.com/blog) - blog about Glasgow tech/startups
