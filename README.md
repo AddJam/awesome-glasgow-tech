@@ -8,6 +8,7 @@ Social and learning opportunities organised by the community.
 
 * [CodeCraft](https://www.codecraftuk.org) - discuss, demonstrate and debate how to write well-structured, malleable software
 * [Lean Agile](https://www.meetup.com/Lean-Agile-Glasgow/) - monthly meetup is to discuss all things lean & agile
+* [Open Source Glasgow](https://opentechcalendar.co.uk/event/11644-tech-meetup)
 * [RookieOven](https://rookieoven.com/meetup) - informal meetup for people interested in tech and startups 
 * [Startup Grind](https://www.startupgrind.com/glasgow/) - support and connect founders and entrepreneurial people to the Scottish startup ecosystem
 * [TechMeetup](https://techmeetup.co.uk/glasgow.html) - a monthly excuse for developers and the tech community around Scotland to meet up and learn new stuff from each other
