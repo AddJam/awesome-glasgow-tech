@@ -44,7 +44,7 @@ Collection of companies hiring for tech roles in Glasgow.
 
 ## Resources
 
-Colleciton of useful places to find out more about Glasgow tech.
+Collection of useful places to find out more about Glasgow tech.
 
 * [Glasgow City Innovation District](https://glasgowcityinnovationdistrict.com) - hub for entrepreneurship, innovation, and collaboration
 * [glasgow.social](https://glasgow.social/about) - twitter like micro blogging, Glasgow specific
@@ -56,3 +56,4 @@ Colleciton of useful places to find out more about Glasgow tech.
 It's not just Glasgow that's awesome in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 * [Awesome Edinburgh Tech](https://github.com/telaco/awesome-edinburgh-tech)
+* [Awesome Dundee Tech](https://github.com/dougaitken/awesome-dundee-tech)
