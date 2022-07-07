@@ -13,7 +13,7 @@ Social and learning opportunities organised by the community.
 * [Startup Grind](https://www.startupgrind.com/glasgow/) - support and connect founders and entrepreneurial people to the Scottish startup ecosystem
 * [TechMeetup](https://techmeetup.co.uk/glasgow.html) - a monthly excuse for developers and the tech community around Scotland to meet up and learn new stuff from each other
 * [UX Glasgow](https://uxglasgow.co.uk) - an informal, co-operative monthly meetup. We welcome everyone who cares about user experience
-
+* [Ladies of Code Glasgow](https://www.meetup.com/ladies-of-code-glasgow/) -  a monthly meetup by and for ladies in code.
 
 ## Coworking
 
