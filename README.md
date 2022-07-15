@@ -40,6 +40,7 @@ Collection of companies hiring for tech roles in Glasgow.
 * [BBC](https://careershub.bbc.co.uk/)
 * [BJSS](https://www.bjss.com/careers/search?job_search=&country=United+Kingdom&location=Glasgow&department=&type=)
 * [Digirati](https://digirati.com/careers/)
+* [JP Morgan Chase](https://careers.jpmorgan.com/)
 * [Neu](https://www.neu.studio/join-us)
 * [Nude](https://www.getnude.com/careers)
 * [Phlo](https://wearephlo.com/careers-at-phlo)
