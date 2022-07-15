@@ -14,7 +14,9 @@ Social and learning opportunities organised by the community.
 * [TechMeetup](https://techmeetup.co.uk/glasgow.html) - a monthly excuse for developers and the tech community around Scotland to meet up and learn new stuff from each other
 * [UX Glasgow](https://uxglasgow.co.uk) - an informal, co-operative monthly meetup. We welcome everyone who cares about user experience
 
+## Conferences & Events
 
+* 2nd Sept 2022 - [DATA:Scotland](https://datascotland.org) - Scotland's Data Community Conference 
 ## Coworking
 
 Mix of coworking spaces and affordable office space.
