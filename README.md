@@ -37,6 +37,7 @@ Collection of companies hiring for tech roles in Glasgow.
 * [Add Jam](https://addjam.com)
 * [Alba Orbital](http://www.albaorbital.com)
 * [Arceptive](http://arceptive.com)
+* [Arnold Clark](https://www.arnoldclark.com/careers/digital-product-development/)
 * [BBC](https://careershub.bbc.co.uk/)
 * [BJSS](https://www.bjss.com/careers/search?job_search=&country=United+Kingdom&location=Glasgow&department=&type=)
 * [Digirati](https://digirati.com/careers/)
@@ -45,6 +46,7 @@ Collection of companies hiring for tech roles in Glasgow.
 * [Nude](https://www.getnude.com/careers)
 * [Phlo](https://wearephlo.com/careers-at-phlo)
 * [Streamba](https://careers.streamba.net)
+* [STV](https://www.stvplc.tv/careers)
 
 ## Resources
 
