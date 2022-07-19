@@ -44,6 +44,7 @@ Collection of companies hiring for tech roles in Glasgow.
 * [Nude](https://www.getnude.com/careers)
 * [Phlo](https://wearephlo.com/careers-at-phlo)
 * [Streamba](https://careers.streamba.net)
+* [STV](https://www.stvplc.tv/careers)
 
 ## Resources
 
