@@ -34,6 +34,7 @@ Mix of coworking spaces and affordable office space.
 
 Collection of companies hiring for tech roles in Glasgow.
 
+* [Arnold Clark](https://www.arnoldclark.com/careers/digital-product-development/)
 * [Add Jam](https://addjam.com)
 * [Alba Orbital](http://www.albaorbital.com)
 * [Arceptive](http://arceptive.com)
