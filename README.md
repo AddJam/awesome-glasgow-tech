@@ -7,6 +7,7 @@
 Social and learning opportunities organised by the community.
 
 * [CodeCraft](https://www.codecraftuk.org) - discuss, demonstrate and debate how to write well-structured, malleable software
+* [Flutter Edinburgh / Glasgow](https://www.meetup.com/flutter-edin-glas/) - bi-monthly meetup, dicussing all things Flutter
 * [Lean Agile](https://www.meetup.com/Lean-Agile-Glasgow/) - monthly meetup is to discuss all things lean & agile
 * [Open Source Glasgow](https://opensource.glasgow.social) - informal meetups
 * [RookieOven](https://rookieoven.com/meetup) - informal meetup for people interested in tech and startups 
