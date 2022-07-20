@@ -15,7 +15,7 @@ Companies that sponsor tech events in Glasgow:
 
 * [Add Jam](https://addjam.com)
 * [Glasgow City Council - Ecosystem Support Fund](https://glasgow.gov.uk/index.aspx?articleid=29126)
-* [JP Morgan Chase](https://careers.jpmorgan.com/jp/ja/about-us/locations/glasgow)
+* [JPMorgan Chase](https://careers.jpmorgan.com/jp/ja/about-us/locations/glasgow)
 * [Skyscanner](https://www.skyscanner.net)
 * [Streamba](https://streamba.net)
 
