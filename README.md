@@ -53,6 +53,7 @@ Collection of companies hiring for tech roles in Glasgow.
 
 Collection of useful places to find out more about Glasgow tech.
 
+* [Dev & Tech Scotland Slack Channel](http://links.devtech.scot/slack) - Slack channel for the technical community in Scotland
 * [Glasgow City Innovation District](https://glasgowcityinnovationdistrict.com) - hub for entrepreneurship, innovation, and collaboration
 * [glasgow.social](https://glasgow.social/about) - twitter like micro blogging, Glasgow specific
 * [Open Tech Calendar](https://opentechcalendar.co.uk/event/11644-tech-meetup) - calendar of events (UK wide)
