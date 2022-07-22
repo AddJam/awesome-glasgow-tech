@@ -8,6 +8,7 @@ Social and learning opportunities organised by the community.
 
 * [CodeCraft](https://www.codecraftuk.org) - discuss, demonstrate and debate how to write well-structured, malleable software
 * [Flutter Edinburgh / Glasgow](https://www.meetup.com/flutter-edin-glas/) - bi-monthly meetup, dicussing all things Flutter
+* [Ladies of Code Glasgow](https://www.meetup.com/ladies-of-code-glasgow/) -  a monthly meetup by and for ladies in code.
 * [Lean Agile](https://www.meetup.com/Lean-Agile-Glasgow/) - monthly meetup is to discuss all things lean & agile
 * [Open Source Glasgow](https://opensource.glasgow.social) - informal meetups
 * [RookieOven](https://rookieoven.com/meetup) - informal meetup for people interested in tech and startups 
@@ -18,6 +19,7 @@ Social and learning opportunities organised by the community.
 ## Conferences & Events
 
 * 2nd Sept 2022 - [DATA:Scotland](https://datascotland.org) - Scotland's Data Community Conference 
+
 ## Coworking
 
 Mix of coworking spaces and affordable office space.
@@ -29,7 +31,6 @@ Mix of coworking spaces and affordable office space.
 * [Toads Caravan](https://toadscaravan.com)
 * [The Whisky Bond](http://www.thewhiskybond.co.uk/the-distillery/)
 * [TwoTen Co](https://www.twotenco.uk)
-
 
 ## Hiring
 
