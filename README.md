@@ -52,7 +52,7 @@ Collection of companies hiring for tech roles in Glasgow.
 
 ## Platforms
 
-* [Community Lab](https://www.communitylab.app/)
+* [Community Lab](https://www.communitylab.app/) - a place to build trust, collaborate, self-organise, and meet (all for free).
 
 ## Resources
 
