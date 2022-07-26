@@ -50,6 +50,10 @@ Collection of companies hiring for tech roles in Glasgow.
 * [Streamba](https://careers.streamba.net)
 * [STV](https://www.stvplc.tv/careers)
 
+## Platforms
+
+* [Community Lab](https://www.communitylab.app/)
+
 ## Resources
 
 Collection of useful places to find out more about Glasgow tech.
