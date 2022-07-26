@@ -8,6 +8,9 @@ Collection of venues that can host a meetups:
 * [Strathclyde Students Union](https://www.strathunion.com)
 * [The Raven](https://theravenglasgow.co.uk)
 
+## Platforms
+
+* [Community Lab](https://www.communitylab.app/) - a place to build trust, collaborate, self-organise, and meet (all for free).
 
 ## Sponsorship
 
