@@ -11,14 +11,14 @@ Social and learning opportunities organised by the community.
 * [Ladies of Code Glasgow](https://www.meetup.com/ladies-of-code-glasgow/) -  a monthly meetup by and for ladies in code.
 * [Lean Agile](https://www.meetup.com/Lean-Agile-Glasgow/) - monthly meetup is to discuss all things lean & agile
 * [Open Source Glasgow](https://opensource.glasgow.social) - informal meetups
-* [RookieOven](https://rookieoven.com/meetup) - informal meetup for people interested in tech and startups 
+* [RookieOven](https://rookieoven.com/meetup) - informal meetup for people interested in tech and startups
 * [Startup Grind](https://www.startupgrind.com/glasgow/) - support and connect founders and entrepreneurial people to the Scottish startup ecosystem
 * [TechMeetup](https://techmeetup.co.uk/glasgow.html) - a monthly excuse for developers and the tech community around Scotland to meet up and learn new stuff from each other
 * [UX Glasgow](https://uxglasgow.co.uk) - an informal, co-operative monthly meetup. We welcome everyone who cares about user experience
 
 ## Conferences & Events
 
-* 2nd Sept 2022 - [DATA:Scotland](https://datascotland.org) - Scotland's Data Community Conference 
+* 2nd Sept 2022 - [DATA:Scotland](https://datascotland.org) - Scotland's Data Community Conference
 
 ## Coworking
 
@@ -43,6 +43,7 @@ Collection of companies hiring for tech roles in Glasgow.
 * [BBC](https://careershub.bbc.co.uk/)
 * [BJSS](https://www.bjss.com/careers/search?job_search=&country=United+Kingdom&location=Glasgow&department=&type=)
 * [Digirati](https://digirati.com/careers/)
+* [itison](https://www.itison.com/careers)
 * [JPMorgan Chase](https://careers.jpmorgan.com/)
 * [Neu](https://www.neu.studio/join-us)
 * [Nude](https://www.getnude.com/careers)
