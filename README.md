@@ -31,6 +31,7 @@ Mix of coworking spaces and affordable office space.
 * [Toads Caravan](https://toadscaravan.com)
 * [The Whisky Bond](http://www.thewhiskybond.co.uk/the-distillery/)
 * [TwoTen Co](https://www.twotenco.uk)
+* [Wizu](https://wizuworkspace.com/west-regent-street)
 
 ## Hiring
 
