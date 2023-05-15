@@ -18,7 +18,7 @@ Social and learning opportunities organised by the community.
 
 ## Conferences & Events
 
-* 2nd Sept 2022 - [DATA:Scotland](https://datascotland.org) - Scotland's Data Community Conference
+* 8th Sept 2023 - [DATA:Scotland](https://datascotland.org) - Scotland's Data Community Conference
 
 ## Coworking
 
