@@ -47,7 +47,7 @@ Collection of companies hiring for tech roles in Glasgow.
 * [itison](https://www.itison.com/careers)
 * [JPMorgan Chase](https://careers.jpmorgan.com/)
 * [Neu](https://www.neu.studio/join-us)
-* [Nude](https://www.getnude.com/careers)
+* [Tempo](https://www.getnude.com/careers)
 * [Phlo](https://wearephlo.com/careers-at-phlo)
 * [Streamba](https://careers.streamba.net)
 * [STV](https://www.stvplc.tv/careers)
